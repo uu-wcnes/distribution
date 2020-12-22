@@ -1,1 +1,4 @@
-# distribution
+# WCNES Lab Environment
+
+* Contiki-ng
+* TinyOS
